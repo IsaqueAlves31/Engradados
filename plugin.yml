@@ -1,0 +1,7 @@
+name: HubyEngradados
+version: 1.1
+author: _Isaque
+main: com.hubymc.engradados.HubyEngradados
+depend: [HolographicDisplays, HubyBosses]
+commands:
+  engradados:
